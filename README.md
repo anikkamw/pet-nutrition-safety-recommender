@@ -1,5 +1,7 @@
 # Pet Nutrition & Adverse-Reaction Safety Recommender
 
+**[Launch Live Interactive App](YOUR_STREAMLIT_URL)**
+
 > Part of my **[AI & Data Science Portfolio](https://github.com/anikkamw/ai-data-science-portfolio)**
 
 An end-to-end hybrid recommendation engine and interactive Streamlit application that matches pets with safe, nutritionally aligned food formulas while screening out brands with elevated customer-reported adverse reactions.
