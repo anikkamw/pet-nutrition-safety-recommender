@@ -4,6 +4,22 @@
 
 > Part of my **[AI & Data Science Portfolio](https://github.com/anikkamw/ai-data-science-portfolio)**
 
+## App Preview
+
+### Dog Dietary Filtering
+**Standard Search (No Allergen Exclusions)**
+![Dog Standard Recommendations](Dog.png)
+
+**Allergen-Filtered Search (Excludes Selected Allergens)**
+![Dog Allergen-Filtered Recommendations](Dog_All.png)
+
+### Cat Dietary Filtering
+**Standard Search (No Allergen Exclusions)**
+![Cat Standard Recommendations](Cat.png)
+
+**Allergen-Filtered Search (Excludes Selected Allergens)**
+![Cat Allergen-Filtered Recommendations](Cat_All.png)
+
 An end-to-end hybrid recommendation engine and interactive Streamlit application that matches pets with safe, nutritionally aligned food formulas while screening out brands with elevated customer-reported adverse reactions.
 
 ## Project Overview
